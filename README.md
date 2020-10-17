@@ -1,5 +1,5 @@
 # socket_todo
-A TO-DO app that uses Socket.io    
+A TO-DO app that uses Express.js and Socket.io    
 
 To test, please run the following commands in the /todo-server-socketio/ directory    
 ```
