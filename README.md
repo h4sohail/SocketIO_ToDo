@@ -7,7 +7,7 @@ $ npm install
 $ node todo-server.js 
 ```
 
-Then navigate to localhost:3000 to view the app.    
+Then navigate to http://localhost:3000 to view the app.    
 
 ## Files:    
 
